@@ -23,6 +23,10 @@ To download, verify, and extract the required datasets, run:
 ```
 bash scripts/data_download.sh
 ```
+```
+Dataset is through this following link:
+https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
+```
 
 ```
 The script launches a Docker container with the current directory mounted and downloads the datasets to a data/ folder on the host.
